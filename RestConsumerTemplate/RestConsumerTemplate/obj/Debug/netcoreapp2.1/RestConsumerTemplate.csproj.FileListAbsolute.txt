@@ -1,0 +1,8 @@
+D:\source\Eksamen 3. semester\ExamTemplate\RestConsumerTemplate\RestConsumerTemplate\bin\Debug\netcoreapp2.1\RestConsumerTemplate.deps.json
+D:\source\Eksamen 3. semester\ExamTemplate\RestConsumerTemplate\RestConsumerTemplate\bin\Debug\netcoreapp2.1\RestConsumerTemplate.runtimeconfig.json
+D:\source\Eksamen 3. semester\ExamTemplate\RestConsumerTemplate\RestConsumerTemplate\bin\Debug\netcoreapp2.1\RestConsumerTemplate.runtimeconfig.dev.json
+D:\source\Eksamen 3. semester\ExamTemplate\RestConsumerTemplate\RestConsumerTemplate\bin\Debug\netcoreapp2.1\RestConsumerTemplate.dll
+D:\source\Eksamen 3. semester\ExamTemplate\RestConsumerTemplate\RestConsumerTemplate\obj\Debug\netcoreapp2.1\RestConsumerTemplate.csprojAssemblyReference.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RestConsumerTemplate\RestConsumerTemplate\obj\Debug\netcoreapp2.1\RestConsumerTemplate.csproj.CoreCompileInputs.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RestConsumerTemplate\RestConsumerTemplate\obj\Debug\netcoreapp2.1\RestConsumerTemplate.AssemblyInfoInputs.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RestConsumerTemplate\RestConsumerTemplate\obj\Debug\netcoreapp2.1\RestConsumerTemplate.AssemblyInfo.cs

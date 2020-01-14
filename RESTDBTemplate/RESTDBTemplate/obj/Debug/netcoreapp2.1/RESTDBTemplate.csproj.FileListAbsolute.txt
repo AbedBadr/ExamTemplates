@@ -1,0 +1,14 @@
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\bin\Debug\netcoreapp2.1\RESTDBTemplate.deps.json
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\bin\Debug\netcoreapp2.1\RESTDBTemplate.runtimeconfig.json
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\bin\Debug\netcoreapp2.1\RESTDBTemplate.runtimeconfig.dev.json
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\bin\Debug\netcoreapp2.1\RESTDBTemplate.dll
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\obj\Debug\netcoreapp2.1\RESTDBTemplate.csprojAssemblyReference.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\obj\Debug\netcoreapp2.1\RESTDBTemplate.csproj.CoreCompileInputs.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\obj\Debug\netcoreapp2.1\RESTDBTemplate.RazorAssemblyInfo.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\obj\Debug\netcoreapp2.1\RESTDBTemplate.RazorAssemblyInfo.cs
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\obj\Debug\netcoreapp2.1\RESTDBTemplate.AssemblyInfoInputs.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\obj\Debug\netcoreapp2.1\RESTDBTemplate.AssemblyInfo.cs
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\obj\Debug\netcoreapp2.1\RESTDBTemplate.RazorTargetAssemblyInfo.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\bin\Debug\netcoreapp2.1\RESTDBTemplate.pdb
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\obj\Debug\netcoreapp2.1\RESTDBTemplate.dll
+D:\source\Eksamen 3. semester\ExamTemplate\RESTDBTemplate\RESTDBTemplate\obj\Debug\netcoreapp2.1\RESTDBTemplate.pdb
