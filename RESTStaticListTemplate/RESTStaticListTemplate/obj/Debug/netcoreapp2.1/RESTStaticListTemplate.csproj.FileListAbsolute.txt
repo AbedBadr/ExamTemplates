@@ -1,0 +1,14 @@
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\bin\Debug\netcoreapp2.1\RESTStaticListTemplate.deps.json
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\bin\Debug\netcoreapp2.1\RESTStaticListTemplate.runtimeconfig.json
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\bin\Debug\netcoreapp2.1\RESTStaticListTemplate.runtimeconfig.dev.json
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\bin\Debug\netcoreapp2.1\RESTStaticListTemplate.dll
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\obj\Debug\netcoreapp2.1\RESTStaticListTemplate.csprojAssemblyReference.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\obj\Debug\netcoreapp2.1\RESTStaticListTemplate.csproj.CoreCompileInputs.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\obj\Debug\netcoreapp2.1\RESTStaticListTemplate.RazorAssemblyInfo.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\obj\Debug\netcoreapp2.1\RESTStaticListTemplate.RazorAssemblyInfo.cs
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\obj\Debug\netcoreapp2.1\RESTStaticListTemplate.AssemblyInfoInputs.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\obj\Debug\netcoreapp2.1\RESTStaticListTemplate.AssemblyInfo.cs
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\obj\Debug\netcoreapp2.1\RESTStaticListTemplate.RazorTargetAssemblyInfo.cache
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\bin\Debug\netcoreapp2.1\RESTStaticListTemplate.pdb
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\obj\Debug\netcoreapp2.1\RESTStaticListTemplate.dll
+D:\source\Eksamen 3. semester\ExamTemplate\RESTStaticListTemplate\RESTStaticListTemplate\obj\Debug\netcoreapp2.1\RESTStaticListTemplate.pdb

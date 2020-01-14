@@ -1,0 +1,11 @@
+D:\source\Eksamen 3. semester\ExamTemplate\SeleniumTestTemplate\SeleniumTestTemplate\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\source\Eksamen 3. semester\ExamTemplate\SeleniumTestTemplate\SeleniumTestTemplate\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\source\Eksamen 3. semester\ExamTemplate\SeleniumTestTemplate\SeleniumTestTemplate\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\source\Eksamen 3. semester\ExamTemplate\SeleniumTestTemplate\SeleniumTestTemplate\bin\Debug\netcoreapp2.1\SeleniumTestTemplate.deps.json
+D:\source\Eksamen 3. semester\ExamTemplate\SeleniumTestTemplate\SeleniumTestTemplate\bin\Debug\netcoreapp2.1\SeleniumTestTemplate.runtimeconfig.json
+D:\source\Eksamen 3. semester\ExamTemplate\SeleniumTestTemplate\SeleniumTestTemplate\bin\Debug\netcoreapp2.1\SeleniumTestTemplate.runtimeconfig.dev.json
+D:\source\Eksamen 3. semester\ExamTemplate\SeleniumTestTemplate\SeleniumTestTemplate\bin\Debug\netcoreapp2.1\SeleniumTestTemplate.dll
+D:\source\Eksamen 3. semester\ExamTemplate\SeleniumTestTemplate\SeleniumTestTemplate\obj\Debug\netcoreapp2.1\SeleniumTestTemplate.csprojAssemblyReference.cache
+D:\source\Eksamen 3. semester\ExamTemplate\SeleniumTestTemplate\SeleniumTestTemplate\obj\Debug\netcoreapp2.1\SeleniumTestTemplate.csproj.CoreCompileInputs.cache
+D:\source\Eksamen 3. semester\ExamTemplate\SeleniumTestTemplate\SeleniumTestTemplate\obj\Debug\netcoreapp2.1\SeleniumTestTemplate.AssemblyInfoInputs.cache
+D:\source\Eksamen 3. semester\ExamTemplate\SeleniumTestTemplate\SeleniumTestTemplate\obj\Debug\netcoreapp2.1\SeleniumTestTemplate.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+D:\source\Eksamen 3. semester\ExamTemplate\UnitTestTemplate\UnitTestTemplate\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\source\Eksamen 3. semester\ExamTemplate\UnitTestTemplate\UnitTestTemplate\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\source\Eksamen 3. semester\ExamTemplate\UnitTestTemplate\UnitTestTemplate\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\source\Eksamen 3. semester\ExamTemplate\UnitTestTemplate\UnitTestTemplate\bin\Debug\netcoreapp2.1\UnitTestTemplate.deps.json
+D:\source\Eksamen 3. semester\ExamTemplate\UnitTestTemplate\UnitTestTemplate\bin\Debug\netcoreapp2.1\UnitTestTemplate.runtimeconfig.json
+D:\source\Eksamen 3. semester\ExamTemplate\UnitTestTemplate\UnitTestTemplate\bin\Debug\netcoreapp2.1\UnitTestTemplate.runtimeconfig.dev.json
+D:\source\Eksamen 3. semester\ExamTemplate\UnitTestTemplate\UnitTestTemplate\bin\Debug\netcoreapp2.1\UnitTestTemplate.dll
+D:\source\Eksamen 3. semester\ExamTemplate\UnitTestTemplate\UnitTestTemplate\obj\Debug\netcoreapp2.1\UnitTestTemplate.csprojAssemblyReference.cache
+D:\source\Eksamen 3. semester\ExamTemplate\UnitTestTemplate\UnitTestTemplate\obj\Debug\netcoreapp2.1\UnitTestTemplate.csproj.CoreCompileInputs.cache
+D:\source\Eksamen 3. semester\ExamTemplate\UnitTestTemplate\UnitTestTemplate\obj\Debug\netcoreapp2.1\UnitTestTemplate.AssemblyInfoInputs.cache
+D:\source\Eksamen 3. semester\ExamTemplate\UnitTestTemplate\UnitTestTemplate\obj\Debug\netcoreapp2.1\UnitTestTemplate.AssemblyInfo.cs
